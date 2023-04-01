@@ -1,0 +1,90 @@
+.home-child {
+  position: absolute;
+  top: 139px;
+  left: 136px;
+  width: 246px;
+  height: 246px;
+  object-fit: cover;
+}
+.abhijeet-patil,
+.maharashtra-india {
+  position: absolute;
+  top: 420px;
+  left: 136px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 234px;
+  height: 44px;
+}
+.maharashtra-india {
+  top: 464px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 229px;
+  height: 32px;
+}
+.home-item {
+  position: absolute;
+  top: 186px;
+  left: 382px;
+  width: 1333px;
+  height: 3px;
+}
+.home1,
+.project,
+.resume {
+  position: absolute;
+  top: 143px;
+  left: 490px;
+  font-weight: 300;
+}
+.project,
+.resume {
+  left: 654px;
+  display: inline-block;
+  width: 126px;
+  height: 24px;
+}
+.resume {
+  left: 832px;
+  width: 168px;
+  height: 38px;
+}
+.home-inner,
+.line-icon {
+  position: absolute;
+  top: 211px;
+  left: 414px;
+  width: 9px;
+  height: 842.01px;
+}
+.line-icon {
+  top: 510px;
+  left: 116.99px;
+  width: 265.01px;
+  height: 3px;
+}
+.blank-line {
+  margin: 0;
+}
+.i-am-abhijeet-container {
+  position: absolute;
+  top: 219px;
+  left: 468px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1095px;
+  height: 816px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

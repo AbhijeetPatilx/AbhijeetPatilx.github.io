@@ -1,0 +1,97 @@
+.resume-child {
+  position: absolute;
+  top: 139px;
+  left: 136px;
+  width: 246px;
+  height: 246px;
+  object-fit: cover;
+}
+.abhijeet-patil2,
+.maharashtra-india2 {
+  position: absolute;
+  top: 420px;
+  left: 136px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 234px;
+  height: 44px;
+}
+.maharashtra-india2 {
+  top: 464px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 229px;
+  height: 32px;
+}
+.resume-item {
+  position: absolute;
+  top: 186px;
+  left: 382px;
+  width: 1333px;
+  height: 3px;
+}
+.home3,
+.project3,
+.resume3 {
+  position: absolute;
+  top: 143px;
+  left: 490px;
+  font-weight: 300;
+}
+.project3,
+.resume3 {
+  left: 654px;
+  display: inline-block;
+  width: 126px;
+  height: 24px;
+}
+.resume3 {
+  left: 832px;
+  width: 168px;
+  height: 38px;
+}
+.resume-child1,
+.resume-inner {
+  position: absolute;
+}
+.resume-inner {
+  top: 211px;
+  left: 414px;
+  width: 9px;
+  height: 842.01px;
+}
+.resume-child1 {
+  top: 510px;
+  left: 116.99px;
+  width: 265.01px;
+  height: 3px;
+}
+.blank-line5 {
+  margin: 0;
+  font-weight: 300;
+}
+.resume5 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 500;
+}
+.resume4 {
+  position: absolute;
+  top: 219px;
+  left: 468px;
+  display: inline-block;
+  width: 1095px;
+  height: 816px;
+}
+.resume2 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

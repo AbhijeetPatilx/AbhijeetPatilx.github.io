@@ -1,0 +1,100 @@
+.project-child {
+  position: absolute;
+  top: 139px;
+  left: 136px;
+  width: 246px;
+  height: 246px;
+  object-fit: cover;
+}
+.abhijeet-patil1,
+.maharashtra-india1 {
+  position: absolute;
+  top: 420px;
+  left: 136px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 234px;
+  height: 44px;
+}
+.maharashtra-india1 {
+  top: 464px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 229px;
+  height: 32px;
+}
+.project-item {
+  position: absolute;
+  top: 186px;
+  left: 382px;
+  width: 1333px;
+  height: 3px;
+}
+.home2,
+.project2,
+.resume1 {
+  position: absolute;
+  top: 143px;
+  left: 490px;
+  font-weight: 300;
+}
+.project2,
+.resume1 {
+  left: 654px;
+  display: inline-block;
+  width: 126px;
+  height: 24px;
+}
+.resume1 {
+  left: 832px;
+  width: 168px;
+  height: 38px;
+}
+.project-child1,
+.project-inner {
+  position: absolute;
+}
+.project-inner {
+  top: 211px;
+  left: 414px;
+  width: 9px;
+  height: 842.01px;
+}
+.project-child1 {
+  top: 510px;
+  left: 116.99px;
+  width: 265.01px;
+  height: 3px;
+}
+.blank-line2 {
+  margin: 0;
+  font-weight: 300;
+}
+.projects {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.p {
+  margin: 0;
+}
+.projects-2023-personal-container {
+  position: absolute;
+  top: 219px;
+  left: 468px;
+  display: inline-block;
+  width: 1095px;
+  height: 816px;
+}
+.project1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
